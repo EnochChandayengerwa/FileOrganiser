@@ -1,2 +1,2 @@
-"C:\Users\enoch c\Desktop\Programming\Passion Projects\File Organiser\FileOrganiser.py"
+"(path)\FileOrganiser.py"
 pause
