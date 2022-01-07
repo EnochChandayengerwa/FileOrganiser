@@ -16,7 +16,7 @@ folder_names = {
 
 #Extract list of files/folders
 
-downloads_path = r'C:\Users\enoch c\Downloads'
+downloads_path = r'path'
 
 onlyfiles = [os.path.join(downloads_path, file) 
         for file in os.listdir(downloads_path) 
